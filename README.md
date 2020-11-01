@@ -6,3 +6,30 @@ One of the most important soft skills is the ability to deliver an effective pre
 The good news is that delivering a good presentation is something you can learn. In that way it is not very different from learning JavaScript and the same rules apply. For instance, don’t compare yourself too much to others. Some of your classmates might naturally be more comfortable at public speaking in front of an audience. Or maybe you are insecure about your English skills because it is not your mother tongue. It does not matter. What matters is that you practice. And that is what we are going to do!
 
 For this module, the HYF staff will link you up to another HYF graduate and you will work in duos. Your notes and videos will have to be submitted through this Excel-sheet.
+
+## Resources:
+1. Basic Principles of a presentation
+https://www.youtube.com/watch?v=d4y1OO9rppA
+
+2. How to Easily Overcome Social Anxiety - Prof. Jordan Peterson
+https://www.youtube.com/watch?v=_NQGQImrpx4 
+
+3. Examples of a good presentation:
+https://www.ted.com/talks/thomas_suarez_a_12_year_old_app_developer
+https://www.ted.com/talks/matt_cutts_try_something_new_for_30_days
+https://www.youtube.com/watch?v=i-89IO5M7Lc 
+
+4. How to prepare an elevator pitch: https://www.youtube.com/watch?v=Oy6S0iTZx54
+
+5. More examples of an elevator pitch: https://www.youtube.com/watch?v=aDt6cukCz7k 
+
+## Evaluation
+Both your soft skills as well as your English language skills will be assessed based on your performance in the presentation skills-module.
+
+We ask you at the beginning of the 1-month English and Presentation module to set the deadlines in the Excel-sheet, and ask for approval to the HYF staff. After setting the deadlines it is your responsibility to meet the deadlines.
+
+If you put in the time and effort we are ready to help you at all times. Just ask! However, in case you fail to meet the deadlines with the HYF staff and/or mentors, it can lead to expulsion from the HYF program. The same rules apply in this module as for HTML/CSS, JavaScript, Node and so on.
+
+## Bonus
+
+If you feel you are struggling a lot with soft skills, please let us know. For some of you (we have limited capacity) we can arrange a coach to support you in the next few months. We are working with some talented and experienced individuals (see an example [here](https://www.thechangery.com/en/team/eric-van-der-list/)) who offer support with regards to personal development, self-confidence and soft skills. If you are interested in this, let us know.
