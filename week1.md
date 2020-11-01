@@ -1,7 +1,7 @@
 # Week 1: Practice with Buddy 
 
 ## 1. Video material
-Watch the videos no. 1 - 3 below and make notes for yourself. We expect you to integrate some of the best practices from the examples provided.
+Watch the videos no. 1 - 3 in the readme file and make notes for yourself. We expect you to integrate some of the best practices from the examples provided.
 
 ## 2. Discuss best practices
 Find a video on the internet that both of you agree to be a very good presentation. Write down two positives that you think the presenter is doing well in the Excel-sheet and discuss this. Also discuss one key takeaway you would like to improve on when presenting in the next few weeks, based on what you have learned from the video. 
