@@ -7,6 +7,12 @@ The good news is that delivering a good presentation is something you can learn.
 
 For this module, you will have link up to one of your classmates and work in duos. Your notes and videos will have to be submitted in your class Slack channel
 
+## Homework:
+The next two weeks you will have home work assignments. The deadlines are the same as week 1 and week 2 of your JS homework.
+
+See for the homework of week 1 here (https://github.com/HackYourFuture/presentation-module/blob/main/week1.md)
+See for the homework of week 2 here (https://github.com/HackYourFuture/presentation-module/blob/main/week2.md) 
+
 ## Resources:
 1. Basic Principles of a presentation
 https://www.youtube.com/watch?v=d4y1OO9rppA
