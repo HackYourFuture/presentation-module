@@ -5,7 +5,7 @@ One of the most important soft skills is the ability to deliver an effective pre
 
 The good news is that delivering a good presentation is something you can learn. In that way it is not very different from learning JavaScript and the same rules apply. For instance, don’t compare yourself too much to others. Some of your classmates might naturally be more comfortable at public speaking in front of an audience. Or maybe you are insecure about your English skills because it is not your mother tongue. It does not matter. What matters is that you practice. And that is what we are going to do!
 
-For this module, you will have link up to one of your classmates and work in duos. Your notes and videos will have to be submitted in your class Slack channel
+This ‘mini-module’ is divided into two weeks. For this module, you will have link up to one of your classmates and work in duos. 
 
 ## Homework:
 The next two weeks you will have home work assignments. The deadlines are the same as week 1 and week 2 of your JS homework.
@@ -32,6 +32,8 @@ https://www.youtube.com/watch?v=i-89IO5M7Lc
 
 ## Evaluation
 Both your soft skills as well as your English language skills will be assessed based on your performance in the presentation skills-module.
+
+Note that the homework assignment in the second week will be graded and needs to be passed in order to continue with the HYF program.
 
 If you put in the time and effort we are ready to help you at all times. Just ask! However, in case you fail to meet the deadlines with the HYF staff and/or mentors, it can lead to expulsion from the HYF program. The same rules apply in this module as for HTML/CSS and JavaScript.
 
