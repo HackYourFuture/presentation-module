@@ -10,8 +10,9 @@ For this module, you will have link up to one of your classmates and work in duo
 ## Homework:
 The next two weeks you will have home work assignments. The deadlines are the same as week 1 and week 2 of your JS homework.
 
-See for the homework of week 1 here (https://github.com/HackYourFuture/presentation-module/blob/main/week1.md)
-See for the homework of week 2 here (https://github.com/HackYourFuture/presentation-module/blob/main/week2.md) 
+The homework of week 1 can be found here: https://github.com/HackYourFuture/presentation-module/blob/main/week1.md
+
+The homework of week 2 can be found here: https://github.com/HackYourFuture/presentation-module/blob/main/week2.md
 
 ## Resources:
 1. Basic Principles of a presentation
