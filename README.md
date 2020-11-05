@@ -1,11 +1,11 @@
-# presentation-module
+# Presentation Module
 More than 50% of what makes a good developer are non-technical skills. These so-called soft skills include teamwork, communication, self-awareness, resistance to stress, time management and many other non-technical skills. Many of these skills are interrelated. For instance, if you want to be really good at working in teams, you probably have to strengthen your communication skills. Another example: If you are susceptible to stress, it helps to have a significant degree of self awareness. Self awareness helps you to recognize that one of your weaknesses is stress and to recognize the moments in which you feel stresses. This in turn helps you on your journey to find ways to improve your stress management.
 
 One of the most important soft skills is the ability to deliver an effective presentation. If you know how to present yourself well, you have a much higher chance of doing well in a job interview and succeeding in your job. For instance, during the job interview you need to be able to articulate clearly why you are the right candidate for the job. Once you have found a great job, presentation skills subsequently help you to be more effective at communicating your ideas, questions and challenges to management and colleagues.
 
 The good news is that delivering a good presentation is something you can learn. In that way it is not very different from learning JavaScript and the same rules apply. For instance, don’t compare yourself too much to others. Some of your classmates might naturally be more comfortable at public speaking in front of an audience. Or maybe you are insecure about your English skills because it is not your mother tongue. It does not matter. What matters is that you practice. And that is what we are going to do!
 
-For this module, the HYF staff will link you up to another HYF graduate and you will work in duos. Your notes and videos will have to be submitted through this Excel-sheet.
+For this module, you will have link up to one of your classmates and work in duos. Your notes and videos will have to be submitted in your class Slack channel
 
 ## Resources:
 1. Basic Principles of a presentation
@@ -26,9 +26,7 @@ https://www.youtube.com/watch?v=i-89IO5M7Lc
 ## Evaluation
 Both your soft skills as well as your English language skills will be assessed based on your performance in the presentation skills-module.
 
-We ask you at the beginning of the 1-month English and Presentation module to set the deadlines in the Excel-sheet, and ask for approval to the HYF staff. After setting the deadlines it is your responsibility to meet the deadlines.
-
-If you put in the time and effort we are ready to help you at all times. Just ask! However, in case you fail to meet the deadlines with the HYF staff and/or mentors, it can lead to expulsion from the HYF program. The same rules apply in this module as for HTML/CSS, JavaScript, Node and so on.
+If you put in the time and effort we are ready to help you at all times. Just ask! However, in case you fail to meet the deadlines with the HYF staff and/or mentors, it can lead to expulsion from the HYF program. The same rules apply in this module as for HTML/CSS and JavaScript.
 
 ## Bonus
 
