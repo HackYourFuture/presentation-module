@@ -1,4 +1,7 @@
 # Presentation Module
+
+![Presentation](assets/presentation.jpg)
+
 More than 50% of what makes a good developer are non-technical skills. These so-called soft skills include teamwork, communication, self-awareness, resistance to stress, time management and many other non-technical skills. Many of these skills are interrelated. For instance, if you want to be really good at working in teams, you probably have to strengthen your communication skills. Another example: If you are susceptible to stress, it helps to have a significant degree of self awareness. Self awareness helps you to recognize that one of your weaknesses is stress and to recognize the moments in which you feel stresses. This in turn helps you on your journey to find ways to improve your stress management.
 
 One of the most important soft skills is the ability to deliver an effective presentation. If you know how to present yourself well, you have a much higher chance of doing well in a job interview and succeeding in your job. For instance, during the job interview you need to be able to articulate clearly why you are the right candidate for the job. Once you have found a great job, presentation skills subsequently help you to be more effective at communicating your ideas, questions and challenges to management and colleagues.
