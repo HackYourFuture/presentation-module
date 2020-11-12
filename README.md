@@ -13,25 +13,24 @@ This ‘mini-module’ is divided into two weeks. For this module, you will have
 ## Homework:
 The next two weeks you will have home work assignments. The deadlines are the same as week 1 and week 2 of your JS homework.
 
-The homework of week 1 can be found here: https://github.com/HackYourFuture/presentation-module/blob/main/week1.md
+The homework of week 1 can be found [here](https://github.com/HackYourFuture/presentation-module/blob/main/week1.md).
 
-The homework of week 2 can be found here: https://github.com/HackYourFuture/presentation-module/blob/main/week2.md
+The homework of week 2 can be found [here](https://github.com/HackYourFuture/presentation-module/blob/main/week2.md).
 
 ## Resources:
-1. Basic Principles of a presentation
-https://www.youtube.com/watch?v=d4y1OO9rppA
+1. [Basic Principles of a presentation](https://www.youtube.com/watch?v=d4y1OO9rppA)
 
-2. How to Easily Overcome Social Anxiety - Prof. Jordan Peterson
-https://www.youtube.com/watch?v=_NQGQImrpx4 
+2. [How to Easily Overcome Social Anxiety - Prof. Jordan Peterson](https://www.youtube.com/watch?v=_NQGQImrpx4 )
 
 3. Examples of a good presentation:
-https://www.ted.com/talks/thomas_suarez_a_12_year_old_app_developer
-https://www.ted.com/talks/matt_cutts_try_something_new_for_30_days
-https://www.youtube.com/watch?v=i-89IO5M7Lc 
+- [A 12-year-old Developer](https://www.ted.com/talks/thomas_suarez_a_12_year_old_app_developer)
+- [Try something new for 30 days](https://www.ted.com/talks/matt_cutts_try_something_new_for_30_days)
+- [TED Simon Sinek - The Golden Circle](https://www.youtube.com/watch?v=i-89IO5M7Lc)
 
-4. How to prepare an elevator pitch: https://www.youtube.com/watch?v=Oy6S0iTZx54
+4. [How to prepare an elevator pitch](https://www.youtube.com/watch?v=Oy6S0iTZx54)
 
-5. More examples of an elevator pitch: https://www.youtube.com/watch?v=aDt6cukCz7k 
+5. More examples of an elevator pitch:
+- [Elevator Pitch Examples for Students](https://www.youtube.com/watch?v=aDt6cukCz7k) 
 
 ## Evaluation
 Both your soft skills as well as your English language skills will be assessed based on your performance in the presentation skills-module.
