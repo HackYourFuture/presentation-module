@@ -7,6 +7,7 @@ This is important as this week you will give a presentation to the HYF team. The
 The assignment is similar to the one of last week. We want you to prepare a 5-10 minute presentation. Again, don’t spend too much time thinking about the perfect subject. This exercise is about the delivery, not the exact content. Please do not use slides. 
 
 We will evaluate your performance based on the following indicators:
+- Content delivered in a structured manner
 - Body language (good posture, eye contact, nerves gestures, smile)
 - Speak slowly and use pauses
 - Good use of voice (clear, loud enough and variety in tone,
