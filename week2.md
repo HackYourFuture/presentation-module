@@ -8,9 +8,9 @@ The assignment is similar to the one of last week. We want you to prepare a 5-10
 
 We will evaluate your performance based on the following indicators:
 - Content delivered in a structured manner
-- Body language (good posture, eye contact, nerves gestures, smile)
+- Body language (good posture, eye contact, nervous gestures, smile)
 - Speak slowly and use pauses
-- Good use of voice (clear, loud enough and variety in tone,
+- Good use of voice (clear, loud enough and variety in tone)
 - Engagement of Audience
 - English Proficiency
 
