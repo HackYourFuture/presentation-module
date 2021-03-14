@@ -1,4 +1,4 @@
-# Presentation Assignment 1: Practice with Classmates
+# Presentation Assignment I: Practice with Classmates
 
 ## 1. Video material
 Watch the videos in the readme file and make notes for yourself. We expect you to integrate some of the best practices from the examples provided.
