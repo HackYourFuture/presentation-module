@@ -13,9 +13,9 @@ This ‘mini-module’ is divided into two weeks. For this module, you will have
 ## Homework:
 The next two weeks you will have home work assignments. The deadlines are the same as week 2 and week 3 of your Browsers-module homework.
 
-The homework of week 2 of the Browsers module can be found [here](https://github.com/HackYourFuture/presentation-module/blob/main/week1.md).
+The homework of week 2 of the Browsers module can be found [here](https://github.com/HackYourFuture/presentation-module/blob/main/assignment1.md).
 
-The homework of week 3 of the Browsers module can be found [here](https://github.com/HackYourFuture/presentation-module/blob/main/week2.md).
+The homework of week 3 of the Browsers module can be found [here](https://github.com/HackYourFuture/presentation-module/blob/main/assignment2.md).
 
 ## Resources:
 1. [Basic Principles of a presentation](https://www.youtube.com/watch?v=d4y1OO9rppA)
