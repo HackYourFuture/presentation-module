@@ -11,7 +11,7 @@ The good news is that delivering a good presentation is something you can learn.
 This ‘mini-module’ is divided into two weeks. For this module, you will have link up to one of your classmates and work in duos. 
 
 ## Homework:
-The next two weeks you will have home work assignments. The deadlines are the same as week 1 and week 2 of your JS homework.
+The next two weeks you will have home work assignments. The deadlines are the same as week 2 and week 3 of your Browsers-module homework.
 
 The homework of week 1 can be found [here](https://github.com/HackYourFuture/presentation-module/blob/main/week1.md).
 
