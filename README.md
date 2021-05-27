@@ -35,7 +35,7 @@ The homework of week 3 of the Browsers module can be found [here](https://github
 ## Evaluation
 Both your soft skills as well as your English language skills will be assessed based on your performance in the presentation skills-module.
 
-Note that the homework assignment in the second week will be graded and needs to be passed in order to continue with the HYF program.
+Note that the homework assignment in the second week will be graded and needs to be passed in order to graduate from HYF. If you do not pass initially you will get feedback and have to redo it until you pass.
 
 If you put in the time and effort we are ready to help you at all times. Just ask! However, in case you fail to meet the deadlines with the HYF staff and/or mentors, it can lead to expulsion from the HYF program. The same rules apply in this module as for HTML/CSS and JavaScript.
 
