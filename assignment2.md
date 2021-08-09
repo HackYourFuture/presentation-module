@@ -2,7 +2,7 @@
 
 Start this week by reviewing the feedback you received last week from your class-mate and re-watch your presentation. What went well and what could improve? 
 
-This is important as this week you will give a presentation to the HYF team. The HYF-team will schedule a time slot with you.
+This is important as this week you will give a presentation to the HYF team. The HYF-team will schedule a time slot with you. Note: this will be a live-presentation during a video call, not a recorded video.
 
 The assignment is similar to the one of last week. We want you to prepare a 5-10 minute presentation. Again, don’t spend too much time thinking about the perfect subject. This exercise is about the delivery, not the exact content. Please do not use slides. 
 
