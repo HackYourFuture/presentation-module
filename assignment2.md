@@ -1,4 +1,4 @@
-# Presentation Assignement II: Presentation for HYF staff
+# Presentation Assignment II: Presentation for HYF staff
 
 Start this week by reviewing the feedback you received last week from your class-mate and re-watch your presentation. What went well and what could improve? 
 
