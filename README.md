@@ -25,7 +25,7 @@ The homework of week 3 of the Browsers module can be found [here](https://github
 3. Examples of a good presentation:
 - [A 12-year-old Developer](https://www.ted.com/talks/thomas_suarez_a_12_year_old_app_developer)
 - [Try something new for 30 days](https://www.ted.com/talks/matt_cutts_try_something_new_for_30_days)
-- [TED Simon Sinek - The Golden Circle](https://www.youtube.com/watch?v=i-89IO5M7Lc)
+- [TED Simon Sinek - The Golden Circle](https://www.youtube.com/watch?v=Jeg3lIK8lro)
 
 4. [How to prepare an elevator pitch](https://www.youtube.com/watch?v=Oy6S0iTZx54)
 
