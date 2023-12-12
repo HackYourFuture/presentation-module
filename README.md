@@ -6,16 +6,16 @@ More than 50% of what makes a good developer are non-technical skills. These so-
 
 One of the most important soft skills is the ability to deliver an effective presentation. If you know how to present yourself well, you have a much higher chance of doing well in a job interview and of succeeding in your job. For instance, during a job interview you must be able to articulate clearly why you are the right candidate for the job. Once you have found a good job, presentation skills subsequently help you to be more effective at communicating your ideas, questions and challenges to management and colleagues.
 
-The good news is that delivering a good presentation is something you can learn. In a way, it is not very different from learning JavaScript. For instance, don’t compare yourself too much to others. Some of your classmates might naturally be more comfortable at speaking in front of an audience; or you may be insecure about your English skills because it is not your mother tongue. It does not matter: what does matter is that you practice, and that's what we're here for!
+The good news is that delivering a good presentation is something you can learn. In a way, it is not very different from learning JavaScript. For instance, don’t compare yourself too much to others. Some of your colleagues might naturally be more comfortable at speaking in front of an audience; or you may be insecure about your English skills because it is not your mother tongue. It does not matter: what does matter is that you practice, and that's what we're here for!
 
-This ‘mini-module’ is divided into two weeks. You will pair up with a classmate and work in duos. 
+This ‘mini-module’ is divided into two weeks. You will pair up with a colleague and work in duos. 
 
-## Homework:
-In the coming two weeks, the presentation assignments will constitute week 2 and week 3 of the Browsers homework.
+## Assignments:
+In the coming two weeks, the presentation assignments will constitute week 2 and week 3 of the Browsers assignments.
 
-The homework for week 2 can be found [here](https://github.com/HackYourFuture/presentation-module/blob/main/assignment1.md).
+The assignment for week 2 can be found [here](https://github.com/HackYourFuture/presentation-module/blob/main/assignment1.md).
 
-Whilst the homework for week 3 can be found [here](https://github.com/HackYourFuture/presentation-module/blob/main/assignment2.md).
+Whilst the assignment for week 3 can be found [here](https://github.com/HackYourFuture/presentation-module/blob/main/assignment2.md).
 
 ## Resources:
 1. [Basic principles of a presentation](https://www.youtube.com/watch?v=d4y1OO9rppA)
@@ -35,7 +35,7 @@ Whilst the homework for week 3 can be found [here](https://github.com/HackYourFu
 ## Evaluation
 Both your soft skills and your English language skills will be assessed based on your performance during the presentation module.
 
-Note that the homework assignment in the second week is graded and needs to be passed in order to graduate from HYF. If you do not pass initially, you will receive feedback and have to redo it until you pass.
+Note that the assignment in the second week is graded and needs to be passed in order to graduate from HYF. If you do not pass initially, you will receive feedback and have to redo it until you pass.
 
 As long as you put in the time and effort, we are ready to help you at all times; just ask! However, we expect you to meet the deadlines, just like for any other module.
 
