@@ -6,9 +6,9 @@ More than 50% of what makes a good developer are non-technical skills. These so-
 
 One of the most important soft skills is the ability to deliver an effective presentation. If you know how to present yourself well, you have a much higher chance of doing well in a job interview and of succeeding in your job. For instance, during a job interview you must be able to articulate clearly why you are the right candidate for the job. Once you have found a good job, presentation skills subsequently help you to be more effective at communicating your ideas, questions and challenges to management and colleagues.
 
-The good news is that delivering a good presentation is something you can learn. In a way, it is not very different from learning JavaScript. For instance, don’t compare yourself too much to others. Some of your colleagues might naturally be more comfortable at speaking in front of an audience; or you may be insecure about your English skills because it is not your mother tongue. It does not matter: what does matter is that you practice, and that's what we're here for!
+The good news is that delivering a good presentation is something you can learn. In a way, it is not very different from learning JavaScript. For instance, don’t compare yourself too much to others. Some of your peers might naturally be more comfortable at speaking in front of an audience; or you may be insecure about your English skills because it is not your mother tongue. It does not matter: what does matter is that you practice, and that's what we're here for!
 
-This ‘mini-module’ is divided into two weeks. You will pair up with a colleague and work in duos. 
+This ‘mini-module’ is divided into two weeks. You will pair up with a peer and work in duos. 
 
 ## Assignments:
 In the coming two weeks, the presentation assignments will constitute week 2 and week 3 of the Browsers assignments.
