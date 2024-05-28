@@ -20,10 +20,10 @@ A presentation is slightly different from a tutorial: it is not about explaining
 Now rehearse your presentation a few times. You can do this in front of the mirror, in the shower, to a friend or a peer, whatever works for you. The more you practice, the better you will get. Try to think of some of the basic principles of a good presentation.
 
 ## C. Record a video
-It’s time to record your presentation. Once you're done, share the recording in the Slack class channel.
+It’s time to record your presentation. Once you're done, share the recording in the Slack cohort channel.
 
 ## D. Receive and give feedback
-After you finish your presentation, it is important to give feedback. Please provide orderly feedback to the classmate you were paired with, based on the followings:
+After you finish your presentation, it is important to give feedback. Please provide orderly feedback to the colleague you were paired with, based on the followings:
 
 - main positive point
 - main challenge
