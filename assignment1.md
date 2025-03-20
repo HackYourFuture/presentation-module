@@ -9,10 +9,10 @@ Together with your peer, find a video on the internet for which both of you agre
 ## 3. Practice!
 It is time to practice. You will prepare a presentation and receive feedback. 
 
-## A. Prepare a 5-10 minute presentation
-Please prepare a presentation of a maximum of 10 minutes. The subject does not matter, it can be about anything you are a big fan of (History, Shakespeare, Rob van Kruijsdijk, quantum physics). The only topic you cannot pick is Javascript ;) You will have plenty of time to discuss coding during technical assignments, so let's focus on other topics for now... No need to spend too much time thinking about the perfect topic: this exercise is about the delivery, not the exact content.
+## A. Prepare a 5 minute presentation
+Please prepare a presentation of around 5 minutes. The subject does not matter, it can be about anything you are a big fan of (History, Shakespeare, Stas Seldin, quantum physics). The only topic you cannot pick is Javascript ;) You will have plenty of time to discuss coding during technical assignments, so let's focus on other topics for now... No need to spend too much time thinking about the perfect topic: this exercise is about the delivery, not the exact content.
 
-Please do not use slides, as the focus of your presentation should be on you and your delivery.
+**Please do not use slides**, as the focus of your presentation should be on you and your delivery.
 
 A presentation is slightly different from a tutorial: it is not about explaining how to execute something, but about conveing a message, convincing an audience or teaching something.
 
