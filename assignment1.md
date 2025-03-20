@@ -1,4 +1,4 @@
-# Presentation Assignment I: Practice with a peer
+# Presentation assignment 1: Practice with a peer
 
 ## 1. Video material
 Watch the videos in the readme file and make notes for yourself. We expect you to integrate some of the best practices from the examples provided.
@@ -17,7 +17,7 @@ Please prepare a presentation of around 5 minutes. The subject does not matter, 
 A presentation is slightly different from a tutorial: it is not about explaining how to execute something, but about conveing a message, convincing an audience or teaching something.
 
 ## B. Practice yourself
-Now rehearse your presentation a few times. You can do this in front of the mirror, in the shower, to a friend or a peer, whatever works for you. The more you practice, the better you will get. Try to think of some of the basic principles of a good presentation.
+Now rehearse your presentation a few times. You can do this in front of the mirror, to a friend or a peer, whatever works for you. The more you practice, the better you will get. Try to think of some of the basic principles of a good presentation.
 
 ## C. Record a video
 It’s time to record your presentation. Once you're done, share the recording in the Slack cohort channel.
@@ -32,7 +32,7 @@ After you finish your presentation, it is important to give feedback. Please pro
 - use of voice (clearity and loudness)
 - audience engagement
 
-For each point, make sure your feedback is as specific as possible. Give examples to illustrate your points.
+For each point, make sure your feedback is as specific as possible. Give examples to illustrate your points. Please do not use chatGPT or translating apps for this, but use it instead as an occasion to develop your written and analytical skills.
 You may submit your feedback in comments to the video of your colleague, in Slack.
 
 You will receive feedback from your colleague as well :)
